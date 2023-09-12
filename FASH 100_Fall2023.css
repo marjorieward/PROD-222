@@ -149,8 +149,8 @@ em {
 
 .button-div{
 	height:0;
-	width:28%;
-	padding-bottom:28%;
+	width:22%;
+	padding-bottom:22%;
 	top: 50%;
 	position: relative;
 	 display: inline-block;
@@ -161,8 +161,8 @@ em {
 }
 .popup {
 	height:0;
-	width:28%;
-	padding-bottom:28%;
+	width:22%;
+	padding-bottom:22%;
 	margin-left: 2px;
 	top: 50%;
   position: relative;
@@ -298,13 +298,13 @@ em {
 
 .modal-body {
 	height: 45vh;
-	margin: 0 16px 0 auto;
+	padding: 0 16px 0 16px;
+	margin: 0 16px 0 16px;
 	overflow-y: auto;
 }
 
 .modal-footer {
     padding: 2px 16px;
-    background-color: #5cb85c;
     color: white;
 	border-radius: 0 0 30px 30px;
 }
